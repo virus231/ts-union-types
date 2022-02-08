@@ -1,0 +1,3 @@
+const NumberInput: React.FC<NumberInputProps> = ({ value, onChange, label}) => {
+    ...
+  }

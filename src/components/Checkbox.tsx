@@ -1,0 +1,3 @@
+const Checkbox: React.FC<CheckboxProps> = ({ checked, onChange, label}) => {
+    ...
+  }
