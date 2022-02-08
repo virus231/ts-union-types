@@ -22,7 +22,7 @@ const inputs: Input[] = [
         type: 'checkbox',
         onChange: (newValue: boolean) => {},
         value: false,
-        label: "Number Input",
+        label: "Checkbox Input",
         id: "checkbox-input",
     }
 ]
