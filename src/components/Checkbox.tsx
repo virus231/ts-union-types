@@ -1,3 +1,5 @@
-const Checkbox: React.FC<CheckboxProps> = ({ checked, onChange, label}) => {
-    ...
-  }
+import { CheckboxInputDefinition } from "../utils/types";
+
+export const Checkbox = ({onChange, label, checked}) => {
+  return <div>Checbox</div>
+}

@@ -1,3 +1,3 @@
-const TextInput: React.FC<TextInputProps> = ({ value, onChange, label }) => {
+export const TextInput: React.FC<TextInputProps> = ({ value, onChange, label }) => {
     ...
   }

@@ -1,3 +1,3 @@
-const NumberInput: React.FC<NumberInputProps> = ({ value, onChange, label}) => {
+export const NumberInput: React.FC<NumberInputProps> = ({ value, onChange, label}) => {
     ...
   }
